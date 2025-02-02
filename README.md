@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyabh&label=Profile%20views&color=0e75b6&style=flat" alt="yahyabh" /> </p>
 
-- 🌱 I’m currently learning **next generations technologies (Next.Js , Sanity , MongoDb ... )**
+- 🌱 I’m currently learning **next generations technologies (Next.Js , Sanity , MySql ... )**
 
-- 👨‍💻 All of my projects are available at [https://yahyabouhsine.ml/](https://yahyabouhsine.ml/)
+- 👨‍💻 All of my projects are available at [https://yahyabouhsine.click/](https://yahyabouhsine.click/)
 
-- 📫 How to reach me **yahyabouhsine@protonmail.com**
+- 📫 How to reach me **contact@yahyabouhsine.click**
 
-- 📄 Know about my experiences [https://yahyabouhsine.ml/](https://yahyabouhsine.ml/)
+- 📄 Know about my experiences [https://yahyabouhsine.click/](https://yahyabouhsine.click/)
 
 - ⚡ Fun fact **Highly skilled to deal with any type of problems**
 
