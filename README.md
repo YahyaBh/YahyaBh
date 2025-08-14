@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **next generations technologies (Next.Js , Sanity , MySql ... )**
 
-- 👨‍💻 All of my projects are available at [https://yahyabouhsine.click/](https://yahya-bouhsine.netlify.app/)
+- 👨‍💻 All of my projects are available at ([https://yahyabouhsine.webinadigital.com/]([https://yahya-bouhsine.netlify.app/](https://yahyabouhsine.webinadigital.com))
 
 - 📫 How to reach me **contact@yahyabouhsine.click**
 
-- 📄 Know about my experiences [https://yahyabouhsine.click/](https://yahya-bouhsine.netlify.app/)
+- 📄 Know about my experiences ([https://yahyabouhsine.webinadigital.com/](https://yahyabouhsine.webinadigital.com/))
 
 - ⚡ Fun fact **Highly skilled to deal with any type of problems**
 
